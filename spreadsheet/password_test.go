@@ -10,7 +10,7 @@ package spreadsheet_test
 import (
 	"testing"
 
-	"baliance.com/gooxml/spreadsheet"
+	"gooxml/spreadsheet"
 )
 
 func TestKnownHashes(t *testing.T) {

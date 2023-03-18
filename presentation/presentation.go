@@ -21,14 +21,14 @@ import (
 	"path"
 	"strings"
 
-	"baliance.com/gooxml"
-	"baliance.com/gooxml/common"
-	"baliance.com/gooxml/measurement"
-	"baliance.com/gooxml/schema/soo/dml"
-	"baliance.com/gooxml/schema/soo/ofc/sharedTypes"
-	"baliance.com/gooxml/schema/soo/pkg/relationships"
-	"baliance.com/gooxml/schema/soo/pml"
-	"baliance.com/gooxml/zippkg"
+	"gooxml"
+	"gooxml/common"
+	"gooxml/measurement"
+	"gooxml/schema/soo/dml"
+	"gooxml/schema/soo/ofc/sharedTypes"
+	"gooxml/schema/soo/pkg/relationships"
+	"gooxml/schema/soo/pml"
+	"gooxml/zippkg"
 )
 
 // Presentation is the a presentation base document.

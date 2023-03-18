@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"baliance.com/gooxml/schema/soo/ofc/math"
+	"gooxml/schema/soo/ofc/math"
 )
 
 func TestCT_Integer2Constructor(t *testing.T) {

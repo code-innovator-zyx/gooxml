@@ -1,9 +1,9 @@
 package main
 
 import (
-	"baliance.com/gooxml/color"
-	"baliance.com/gooxml/document"
-	"baliance.com/gooxml/schema/soo/wml"
+	"gooxml/color"
+	"gooxml/document"
+	"gooxml/schema/soo/wml"
 )
 
 func main() {

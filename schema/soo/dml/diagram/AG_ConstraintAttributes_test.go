@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"baliance.com/gooxml/schema/soo/dml/diagram"
+	"gooxml/schema/soo/dml/diagram"
 )
 
 func TestAG_ConstraintAttributesConstructor(t *testing.T) {

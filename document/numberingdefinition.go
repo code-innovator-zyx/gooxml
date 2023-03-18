@@ -7,7 +7,7 @@
 
 package document
 
-import "baliance.com/gooxml/schema/soo/wml"
+import "gooxml/schema/soo/wml"
 
 // NumberingDefinition defines a numbering definition for a list of pragraphs.
 type NumberingDefinition struct {

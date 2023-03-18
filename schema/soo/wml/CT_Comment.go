@@ -15,8 +15,8 @@ import (
 	"strconv"
 	"time"
 
-	"baliance.com/gooxml"
-	"baliance.com/gooxml/schema/soo/ofc/math"
+	"gooxml"
+	"gooxml/schema/soo/ofc/math"
 )
 
 type CT_Comment struct {

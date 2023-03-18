@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"fmt"
 
-	"baliance.com/gooxml/schema/soo/dml/chartDrawing"
+	"gooxml/schema/soo/dml/chartDrawing"
 )
 
 type UserShapes struct {

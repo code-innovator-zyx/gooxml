@@ -10,16 +10,16 @@ package spreadsheet
 import (
 	"fmt"
 
-	"baliance.com/gooxml"
-	"baliance.com/gooxml/chart"
-	"baliance.com/gooxml/color"
-	"baliance.com/gooxml/common"
-	"baliance.com/gooxml/measurement"
+	"gooxml"
+	"gooxml/chart"
+	"gooxml/color"
+	"gooxml/common"
+	"gooxml/measurement"
 
-	"baliance.com/gooxml/schema/soo/dml"
-	c "baliance.com/gooxml/schema/soo/dml/chart"
-	crt "baliance.com/gooxml/schema/soo/dml/chart"
-	sd "baliance.com/gooxml/schema/soo/dml/spreadsheetDrawing"
+	"gooxml/schema/soo/dml"
+	c "gooxml/schema/soo/dml/chart"
+	crt "gooxml/schema/soo/dml/chart"
+	sd "gooxml/schema/soo/dml/spreadsheetDrawing"
 )
 
 // Drawing is a drawing overlay on a sheet.  Only a single drawing is allowed

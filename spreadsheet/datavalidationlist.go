@@ -10,8 +10,8 @@ package spreadsheet
 import (
 	"strings"
 
-	"baliance.com/gooxml"
-	"baliance.com/gooxml/schema/soo/sml"
+	"gooxml"
+	"gooxml/schema/soo/sml"
 )
 
 // DataValidationList is just a view on a DataValidation configured as a list.

@@ -14,11 +14,11 @@ import (
 	"fmt"
 	"strconv"
 
-	"baliance.com/gooxml"
-	"baliance.com/gooxml/schema/soo/ofc/sharedTypes"
-	"baliance.com/gooxml/schema/urn/schemas_microsoft_com/office/excel"
-	"baliance.com/gooxml/schema/urn/schemas_microsoft_com/office/powerpoint"
-	"baliance.com/gooxml/schema/urn/schemas_microsoft_com/office/word"
+	"gooxml"
+	"gooxml/schema/soo/ofc/sharedTypes"
+	"gooxml/schema/urn/schemas_microsoft_com/office/excel"
+	"gooxml/schema/urn/schemas_microsoft_com/office/powerpoint"
+	"gooxml/schema/urn/schemas_microsoft_com/office/word"
 )
 
 type CT_Shape struct {

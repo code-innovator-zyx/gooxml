@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"fmt"
 
-	"baliance.com/gooxml"
+	"gooxml"
 )
 
 type WdCT_TxbxContent struct {

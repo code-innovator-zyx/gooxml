@@ -12,7 +12,7 @@ package chartDrawing
 import (
 	"encoding/xml"
 
-	"baliance.com/gooxml"
+	"gooxml"
 )
 
 type CT_RelSizeAnchor struct {

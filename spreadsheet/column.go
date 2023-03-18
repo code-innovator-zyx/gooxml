@@ -8,9 +8,9 @@
 package spreadsheet
 
 import (
-	"baliance.com/gooxml"
-	"baliance.com/gooxml/measurement"
-	"baliance.com/gooxml/schema/soo/sml"
+	"gooxml"
+	"gooxml/measurement"
+	"gooxml/schema/soo/sml"
 )
 
 // Column represents a column within a sheet. It's only used for formatting

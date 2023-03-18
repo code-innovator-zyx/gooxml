@@ -12,7 +12,7 @@ package schemaLibrary
 import (
 	"encoding/xml"
 
-	"baliance.com/gooxml"
+	"gooxml"
 )
 
 type SchemaLibrary struct {

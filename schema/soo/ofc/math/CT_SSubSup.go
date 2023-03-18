@@ -12,7 +12,7 @@ package math
 import (
 	"encoding/xml"
 
-	"baliance.com/gooxml"
+	"gooxml"
 )
 
 type CT_SSubSup struct {

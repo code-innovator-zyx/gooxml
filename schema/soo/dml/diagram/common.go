@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"fmt"
 
-	"baliance.com/gooxml"
+	"gooxml"
 )
 
 func ParseUnionST_ModelId(s string) (ST_ModelId, error) {

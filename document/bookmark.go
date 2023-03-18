@@ -7,7 +7,7 @@
 
 package document
 
-import "baliance.com/gooxml/schema/soo/wml"
+import "gooxml/schema/soo/wml"
 
 // Bookmark is a bookmarked location within a document that can be referenced
 // with a hyperlink.

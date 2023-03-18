@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"baliance.com/gooxml/schema/soo/dml/lockedCanvas"
+	"gooxml/schema/soo/dml/lockedCanvas"
 )
 
 func TestLockedCanvasConstructor(t *testing.T) {

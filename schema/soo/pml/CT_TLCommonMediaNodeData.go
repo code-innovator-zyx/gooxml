@@ -14,8 +14,8 @@ import (
 	"fmt"
 	"strconv"
 
-	"baliance.com/gooxml"
-	"baliance.com/gooxml/schema/soo/dml"
+	"gooxml"
+	"gooxml/schema/soo/dml"
 )
 
 type CT_TLCommonMediaNodeData struct {

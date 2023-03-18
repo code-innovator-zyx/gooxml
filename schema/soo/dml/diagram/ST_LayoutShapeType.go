@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"fmt"
 
-	"baliance.com/gooxml/schema/soo/dml"
+	"gooxml/schema/soo/dml"
 )
 
 // ST_LayoutShapeType is a union type

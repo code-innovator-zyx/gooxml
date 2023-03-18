@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"baliance.com/gooxml/schema/soo/dml"
+	"gooxml/schema/soo/dml"
 )
 
 func TestCT_PresetColorConstructor(t *testing.T) {

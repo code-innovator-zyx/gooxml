@@ -8,10 +8,10 @@
 package document
 
 import (
-	"baliance.com/gooxml"
-	"baliance.com/gooxml/color"
-	"baliance.com/gooxml/measurement"
-	"baliance.com/gooxml/schema/soo/wml"
+	"gooxml"
+	"gooxml/color"
+	"gooxml/measurement"
+	"gooxml/schema/soo/wml"
 )
 
 // TableBorders allows manipulation of borders on a table.

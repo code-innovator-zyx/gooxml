@@ -8,10 +8,10 @@
 package document
 
 import (
-	"baliance.com/gooxml"
-	"baliance.com/gooxml/measurement"
-	"baliance.com/gooxml/schema/soo/ofc/sharedTypes"
-	"baliance.com/gooxml/schema/soo/wml"
+	"gooxml"
+	"gooxml/measurement"
+	"gooxml/schema/soo/ofc/sharedTypes"
+	"gooxml/schema/soo/wml"
 )
 
 // ParagraphStyleProperties is the styling information for a paragraph.

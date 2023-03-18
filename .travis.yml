@@ -6,11 +6,11 @@ go:
         - 1.11
 
 install:
-        - mkdir -p $HOME/gopath/src/baliance.com/
-        - ln -s $HOME/gopath/src/github.com/baliance/gooxml $HOME/gopath/src/baliance.com/gooxml
+        - mkdir -p $HOME/gopath/src/
+        - ln -s $HOME/gopath/src/github.com/baliance/gooxml $HOME/gopath/src/gooxml
 
 script:
-        - cd $HOME/gopath/src/baliance.com/gooxml
+        - cd $HOME/gopath/src/gooxml
         - ./build-examples.sh
         - go vet ./...
         - go test ./...

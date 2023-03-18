@@ -11,7 +11,7 @@ import (
 	"fmt"
 	"strings"
 
-	"baliance.com/gooxml/spreadsheet/reference"
+	"gooxml/spreadsheet/reference"
 )
 
 func init() {

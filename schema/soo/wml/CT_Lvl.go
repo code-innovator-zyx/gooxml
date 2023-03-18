@@ -14,8 +14,8 @@ import (
 	"fmt"
 	"strconv"
 
-	"baliance.com/gooxml"
-	"baliance.com/gooxml/schema/soo/ofc/sharedTypes"
+	"gooxml"
+	"gooxml/schema/soo/ofc/sharedTypes"
 )
 
 type CT_Lvl struct {

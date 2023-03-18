@@ -7,9 +7,9 @@ import (
 	"os"
 	"testing"
 
-	"baliance.com/gooxml/schema/soo/wml"
-	"baliance.com/gooxml/testhelper"
-	"baliance.com/gooxml/zippkg"
+	"gooxml/schema/soo/wml"
+	"gooxml/testhelper"
+	"gooxml/zippkg"
 )
 
 func TestSettingsUnmarshal(t *testing.T) {

@@ -11,8 +11,8 @@ import (
 	"strconv"
 	"strings"
 
-	"baliance.com/gooxml/common"
-	"baliance.com/gooxml/schema/soo/pml"
+	"gooxml/common"
+	"gooxml/schema/soo/pml"
 )
 
 // SlideMaster is the slide master for a presentation.

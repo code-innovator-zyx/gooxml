@@ -8,7 +8,7 @@
 package document
 
 import (
-	"baliance.com/gooxml/schema/soo/wml"
+	"gooxml/schema/soo/wml"
 )
 
 // Row is a row within a table within a document.

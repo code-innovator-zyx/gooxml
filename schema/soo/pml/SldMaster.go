@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"strconv"
 
-	"baliance.com/gooxml"
+	"gooxml"
 )
 
 type SldMaster struct {

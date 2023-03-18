@@ -4,11 +4,11 @@ package main
 import (
 	"log"
 
-	"baliance.com/gooxml/color"
-	"baliance.com/gooxml/measurement"
-	"baliance.com/gooxml/schema/soo/dml"
+	"gooxml/color"
+	"gooxml/measurement"
+	"gooxml/schema/soo/dml"
 
-	"baliance.com/gooxml/presentation"
+	"gooxml/presentation"
 )
 
 func main() {

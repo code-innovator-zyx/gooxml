@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"baliance.com/gooxml/schema/soo/pml"
+	"gooxml/schema/soo/pml"
 )
 
 func TestCT_GuideConstructor(t *testing.T) {

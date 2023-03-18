@@ -18,16 +18,16 @@ import (
 	"strings"
 	"time"
 
-	"baliance.com/gooxml"
-	"baliance.com/gooxml/common"
-	"baliance.com/gooxml/vmldrawing"
-	"baliance.com/gooxml/zippkg"
+	"gooxml"
+	"gooxml/common"
+	"gooxml/vmldrawing"
+	"gooxml/zippkg"
 
-	"baliance.com/gooxml/schema/soo/dml"
-	crt "baliance.com/gooxml/schema/soo/dml/chart"
-	sd "baliance.com/gooxml/schema/soo/dml/spreadsheetDrawing"
-	"baliance.com/gooxml/schema/soo/pkg/relationships"
-	"baliance.com/gooxml/schema/soo/sml"
+	"gooxml/schema/soo/dml"
+	crt "gooxml/schema/soo/dml/chart"
+	sd "gooxml/schema/soo/dml/spreadsheetDrawing"
+	"gooxml/schema/soo/pkg/relationships"
+	"gooxml/schema/soo/sml"
 )
 
 // ErrorNotFound is returned when something is not found

@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"baliance.com/gooxml/schema/soo/wml"
+	"gooxml/schema/soo/wml"
 )
 
 func TestCT_SdtPrChoiceConstructor(t *testing.T) {

@@ -12,8 +12,8 @@ package spreadsheetDrawing
 import (
 	"encoding/xml"
 
-	"baliance.com/gooxml"
-	"baliance.com/gooxml/schema/soo/dml"
+	"gooxml"
+	"gooxml/schema/soo/dml"
 )
 
 type CT_GroupShapeNonVisual struct {

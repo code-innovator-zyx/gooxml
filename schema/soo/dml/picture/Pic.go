@@ -12,7 +12,7 @@ package picture
 import (
 	"encoding/xml"
 
-	"baliance.com/gooxml"
+	"gooxml"
 )
 
 type Pic struct {

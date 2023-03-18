@@ -13,7 +13,7 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"baliance.com/gooxml/zippkg"
+	"gooxml/zippkg"
 )
 
 type TestStruct struct {

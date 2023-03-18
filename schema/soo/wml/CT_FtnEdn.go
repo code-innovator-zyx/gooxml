@@ -14,8 +14,8 @@ import (
 	"fmt"
 	"strconv"
 
-	"baliance.com/gooxml"
-	"baliance.com/gooxml/schema/soo/ofc/math"
+	"gooxml"
+	"gooxml/schema/soo/ofc/math"
 )
 
 type CT_FtnEdn struct {

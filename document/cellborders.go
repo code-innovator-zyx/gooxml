@@ -8,9 +8,9 @@
 package document
 
 import (
-	"baliance.com/gooxml/color"
-	"baliance.com/gooxml/measurement"
-	"baliance.com/gooxml/schema/soo/wml"
+	"gooxml/color"
+	"gooxml/measurement"
+	"gooxml/schema/soo/wml"
 )
 
 // CellBorders are the borders for an individual

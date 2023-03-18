@@ -8,8 +8,8 @@
 package document
 
 import (
-	st "baliance.com/gooxml/schema/soo/ofc/sharedTypes"
-	"baliance.com/gooxml/schema/soo/wml"
+	st "gooxml/schema/soo/ofc/sharedTypes"
+	"gooxml/schema/soo/wml"
 )
 
 // TableLook is the conditional formatting associated with a table style that

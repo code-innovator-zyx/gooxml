@@ -12,7 +12,7 @@ package chartDrawing
 import (
 	"encoding/xml"
 
-	"baliance.com/gooxml"
+	"gooxml"
 )
 
 type EG_Anchor struct {

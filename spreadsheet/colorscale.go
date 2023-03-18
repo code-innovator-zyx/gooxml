@@ -8,9 +8,9 @@
 package spreadsheet
 
 import (
-	"baliance.com/gooxml"
-	"baliance.com/gooxml/color"
-	"baliance.com/gooxml/schema/soo/sml"
+	"gooxml"
+	"gooxml/color"
+	"gooxml/schema/soo/sml"
 )
 
 // ColorScale colors a cell background based off of the cell value.

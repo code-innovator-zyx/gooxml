@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"fmt"
 
-	"baliance.com/gooxml/schema/soo/ofc/sharedTypes"
+	"gooxml/schema/soo/ofc/sharedTypes"
 )
 
 type CT_Path struct {

@@ -14,11 +14,11 @@ import (
 	"os"
 	"testing"
 
-	"baliance.com/gooxml/schema/soo/sml"
+	"gooxml/schema/soo/sml"
 
-	"baliance.com/gooxml/spreadsheet"
-	"baliance.com/gooxml/testhelper"
-	"baliance.com/gooxml/zippkg"
+	"gooxml/spreadsheet"
+	"gooxml/testhelper"
+	"gooxml/zippkg"
 )
 
 func TestSimpleWorkbook(t *testing.T) {

@@ -14,7 +14,7 @@ import (
 	"strconv"
 	"time"
 
-	"baliance.com/gooxml"
+	"gooxml"
 )
 
 type Vector struct {

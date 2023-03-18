@@ -8,7 +8,7 @@
 package document
 
 import (
-	"baliance.com/gooxml/schema/soo/wml"
+	"gooxml/schema/soo/wml"
 )
 
 // Table is a table within a document.

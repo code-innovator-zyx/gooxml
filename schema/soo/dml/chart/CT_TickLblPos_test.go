@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"baliance.com/gooxml/schema/soo/dml/chart"
+	"gooxml/schema/soo/dml/chart"
 )
 
 func TestCT_TickLblPosConstructor(t *testing.T) {

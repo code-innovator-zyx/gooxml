@@ -12,7 +12,7 @@ package dml
 import (
 	"encoding/xml"
 
-	"baliance.com/gooxml"
+	"gooxml"
 )
 
 type CT_DefaultShapeDefinition struct {

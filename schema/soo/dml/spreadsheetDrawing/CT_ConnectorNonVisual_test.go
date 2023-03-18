@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"baliance.com/gooxml/schema/soo/dml/spreadsheetDrawing"
+	"gooxml/schema/soo/dml/spreadsheetDrawing"
 )
 
 func TestCT_ConnectorNonVisualConstructor(t *testing.T) {

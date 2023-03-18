@@ -16,9 +16,9 @@ import (
 	"strconv"
 	"time"
 
-	"baliance.com/gooxml"
-	"baliance.com/gooxml/schema/soo/dml"
-	"baliance.com/gooxml/schema/soo/ofc/sharedTypes"
+	"gooxml"
+	"gooxml/schema/soo/dml"
+	"gooxml/schema/soo/ofc/sharedTypes"
 )
 
 const ST_TextScalePercentPattern = `0*(600|([0-5]?[0-9]?[0-9]))%`

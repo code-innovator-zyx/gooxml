@@ -12,7 +12,7 @@ package wml
 import (
 	"encoding/xml"
 
-	"baliance.com/gooxml"
+	"gooxml"
 )
 
 type EG_RPrBase struct {

@@ -8,11 +8,11 @@
 package drawing
 
 import (
-	"baliance.com/gooxml"
-	"baliance.com/gooxml/color"
-	"baliance.com/gooxml/measurement"
+	"gooxml"
+	"gooxml/color"
+	"gooxml/measurement"
 
-	"baliance.com/gooxml/schema/soo/dml"
+	"gooxml/schema/soo/dml"
 )
 
 type ShapeProperties struct {

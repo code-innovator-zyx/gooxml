@@ -8,10 +8,10 @@
 package chart
 
 import (
-	"baliance.com/gooxml/color"
-	"baliance.com/gooxml/drawing"
-	"baliance.com/gooxml/schema/soo/dml"
-	crt "baliance.com/gooxml/schema/soo/dml/chart"
+	"gooxml/color"
+	"gooxml/drawing"
+	"gooxml/schema/soo/dml"
+	crt "gooxml/schema/soo/dml/chart"
 )
 
 type CategoryAxis struct {

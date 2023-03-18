@@ -8,10 +8,10 @@
 package chart
 
 import (
-	"baliance.com/gooxml/drawing"
+	"gooxml/drawing"
 
-	"baliance.com/gooxml/schema/soo/dml"
-	crt "baliance.com/gooxml/schema/soo/dml/chart"
+	"gooxml/schema/soo/dml"
+	crt "gooxml/schema/soo/dml/chart"
 )
 
 type Marker struct {

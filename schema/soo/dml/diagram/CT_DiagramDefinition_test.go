@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"baliance.com/gooxml/schema/soo/dml/diagram"
+	"gooxml/schema/soo/dml/diagram"
 )
 
 func TestCT_DiagramDefinitionConstructor(t *testing.T) {

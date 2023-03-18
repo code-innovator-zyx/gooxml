@@ -14,9 +14,9 @@ import (
 	"fmt"
 	"strconv"
 
-	"baliance.com/gooxml"
-	"baliance.com/gooxml/schema/soo/dml"
-	"baliance.com/gooxml/schema/soo/ofc/sharedTypes"
+	"gooxml"
+	"gooxml/schema/soo/dml"
+	"gooxml/schema/soo/ofc/sharedTypes"
 )
 
 type CT_Presentation struct {

@@ -15,8 +15,8 @@ import (
 	"strconv"
 	"time"
 
-	"baliance.com/gooxml"
-	"baliance.com/gooxml/schema/soo/ofc/sharedTypes"
+	"gooxml"
+	"gooxml/schema/soo/ofc/sharedTypes"
 )
 
 type CT_RevisionHeader struct {

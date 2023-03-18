@@ -3,7 +3,7 @@ package spreadsheet_test
 import (
 	"testing"
 
-	"baliance.com/gooxml/spreadsheet"
+	"gooxml/spreadsheet"
 )
 
 func BenchmarkAddRow(b *testing.B) {

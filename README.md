@@ -7,10 +7,10 @@ Requires **go1.8+**, builds are tested with 1.8, 1.9 and tip.
 [![Build Status](https://travis-ci.org/baliance/gooxml.svg?branch=master)](https://travis-ci.org/baliance/gooxml)
 [![GitHub (pre-)release](https://img.shields.io/github/release/baliance/gooxml/all.svg)](https://github.com/baliance/gooxml/releases)
 [![License: AGPL v3](https://img.shields.io/badge/License-Dual%20AGPL%20v3/Commercial-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
-[![GoDoc](https://godoc.org/baliance.com/gooxml?status.svg)](https://godoc.org/baliance.com/gooxml)
+[![GoDoc](https://godoc.org/gooxml?status.svg)](https://godoc.org/gooxml)
 [![go 1.8+](https://img.shields.io/badge/go-1.8%2B-blue.svg)](http://golang.org)
 
-![https://baliance.com/gooxml/](./_examples/preview.png "gooxml")
+![https://gooxml/](./_examples/preview.png "gooxml")
 
 ## Status ##
 
@@ -50,8 +50,8 @@ DOCX/XLSX/PPTX.
 
 ## Installation ##
     
-    go get baliance.com/gooxml/
-    go build -i baliance.com/gooxml/...
+    go get gooxml/
+    go build -i gooxml/...
 
 ## Document Examples ##
 

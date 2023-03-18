@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"baliance.com/gooxml/schema/urn/schemas_microsoft_com/office/powerpoint"
+	"gooxml/schema/urn/schemas_microsoft_com/office/powerpoint"
 )
 
 func TestIscommentConstructor(t *testing.T) {

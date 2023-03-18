@@ -18,7 +18,7 @@ import (
 	"os"
 	"time"
 
-	"baliance.com/gooxml/measurement"
+	"gooxml/measurement"
 	// Add image format support
 	_ "image/gif"
 	_ "image/jpeg"

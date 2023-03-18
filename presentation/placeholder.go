@@ -10,10 +10,10 @@ package presentation
 import (
 	"errors"
 
-	"baliance.com/gooxml"
-	"baliance.com/gooxml/drawing"
-	"baliance.com/gooxml/schema/soo/dml"
-	"baliance.com/gooxml/schema/soo/pml"
+	"gooxml"
+	"gooxml/drawing"
+	"gooxml/schema/soo/dml"
+	"gooxml/schema/soo/pml"
 )
 
 // PlaceHolder is a place holder from a slide.

@@ -7,7 +7,7 @@
 
 package document
 
-import "baliance.com/gooxml/schema/soo/wml"
+import "gooxml/schema/soo/wml"
 
 // Fonts allows manipulating a style or run's fonts.
 type Fonts struct {

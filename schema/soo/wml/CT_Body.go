@@ -13,8 +13,8 @@ import (
 	"encoding/xml"
 	"fmt"
 
-	"baliance.com/gooxml"
-	"baliance.com/gooxml/schema/soo/ofc/math"
+	"gooxml"
+	"gooxml/schema/soo/ofc/math"
 )
 
 type CT_Body struct {

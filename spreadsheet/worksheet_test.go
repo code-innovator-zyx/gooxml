@@ -14,10 +14,10 @@ import (
 	"os"
 	"testing"
 
-	"baliance.com/gooxml/schema/soo/sml"
-	"baliance.com/gooxml/spreadsheet"
-	"baliance.com/gooxml/testhelper"
-	"baliance.com/gooxml/zippkg"
+	"gooxml/schema/soo/sml"
+	"gooxml/spreadsheet"
+	"gooxml/testhelper"
+	"gooxml/zippkg"
 )
 
 func TestWorksheetUnmarshal(t *testing.T) {

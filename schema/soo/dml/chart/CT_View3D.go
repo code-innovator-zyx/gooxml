@@ -12,7 +12,7 @@ package chart
 import (
 	"encoding/xml"
 
-	"baliance.com/gooxml"
+	"gooxml"
 )
 
 type CT_View3D struct {

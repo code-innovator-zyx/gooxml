@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"time"
 
-	"baliance.com/gooxml"
+	"gooxml"
 )
 
 type CoreProperties struct {

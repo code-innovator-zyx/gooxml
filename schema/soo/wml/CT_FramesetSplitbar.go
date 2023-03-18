@@ -12,7 +12,7 @@ package wml
 import (
 	"encoding/xml"
 
-	"baliance.com/gooxml"
+	"gooxml"
 )
 
 type CT_FramesetSplitbar struct {

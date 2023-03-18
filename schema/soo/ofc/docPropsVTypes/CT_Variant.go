@@ -14,8 +14,8 @@ import (
 	"fmt"
 	"time"
 
-	"baliance.com/gooxml"
-	"baliance.com/gooxml/schema/soo/ofc/sharedTypes"
+	"gooxml"
+	"gooxml/schema/soo/ofc/sharedTypes"
 )
 
 type CT_Variant struct {

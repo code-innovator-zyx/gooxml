@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"baliance.com/gooxml/schema/purl.org/dc/terms"
+	"gooxml/schema/purl.org/dc/terms"
 )
 
 func TestISO639_2Constructor(t *testing.T) {

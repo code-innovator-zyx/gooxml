@@ -8,10 +8,10 @@
 package spreadsheet
 
 import (
-	"baliance.com/gooxml"
-	"baliance.com/gooxml/color"
-	"baliance.com/gooxml/measurement"
-	"baliance.com/gooxml/schema/soo/sml"
+	"gooxml"
+	"gooxml/color"
+	"gooxml/measurement"
+	"gooxml/schema/soo/sml"
 )
 
 // RichTextRun is a segment of text within a cell that is directly formatted.

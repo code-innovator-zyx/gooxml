@@ -13,10 +13,10 @@ import (
 	"encoding/xml"
 	"strconv"
 
-	"baliance.com/gooxml"
-	"baliance.com/gooxml/schema/urn/schemas_microsoft_com/office/excel"
-	"baliance.com/gooxml/schema/urn/schemas_microsoft_com/office/powerpoint"
-	"baliance.com/gooxml/schema/urn/schemas_microsoft_com/office/word"
+	"gooxml"
+	"gooxml/schema/urn/schemas_microsoft_com/office/excel"
+	"gooxml/schema/urn/schemas_microsoft_com/office/powerpoint"
+	"gooxml/schema/urn/schemas_microsoft_com/office/word"
 )
 
 type Arc struct {

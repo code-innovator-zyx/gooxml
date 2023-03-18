@@ -14,7 +14,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"baliance.com/gooxml"
+	"gooxml"
 )
 
 type CT_Transform2D struct {

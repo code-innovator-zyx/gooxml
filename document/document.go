@@ -19,14 +19,14 @@ import (
 	"path/filepath"
 	"strings"
 
-	"baliance.com/gooxml"
-	"baliance.com/gooxml/common"
-	"baliance.com/gooxml/zippkg"
+	"gooxml"
+	"gooxml/common"
+	"gooxml/zippkg"
 
-	"baliance.com/gooxml/schema/soo/dml"
-	st "baliance.com/gooxml/schema/soo/ofc/sharedTypes"
-	"baliance.com/gooxml/schema/soo/pkg/relationships"
-	"baliance.com/gooxml/schema/soo/wml"
+	"gooxml/schema/soo/dml"
+	st "gooxml/schema/soo/ofc/sharedTypes"
+	"gooxml/schema/soo/pkg/relationships"
+	"gooxml/schema/soo/wml"
 )
 
 // Document is a text document that can be written out in the OOXML .docx

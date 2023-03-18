@@ -12,7 +12,7 @@ package diagram
 import (
 	"encoding/xml"
 
-	"baliance.com/gooxml"
+	"gooxml"
 )
 
 type StyleDefHdrLst struct {

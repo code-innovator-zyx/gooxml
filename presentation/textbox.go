@@ -8,9 +8,9 @@
 package presentation
 
 import (
-	"baliance.com/gooxml/drawing"
-	"baliance.com/gooxml/schema/soo/dml"
-	"baliance.com/gooxml/schema/soo/pml"
+	"gooxml/drawing"
+	"gooxml/schema/soo/dml"
+	"gooxml/schema/soo/pml"
 )
 
 // TextBox is a text box within a slide.

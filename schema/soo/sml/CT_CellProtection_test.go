@@ -13,7 +13,7 @@ import (
 	"encoding/xml"
 	"testing"
 
-	"baliance.com/gooxml/schema/soo/sml"
+	"gooxml/schema/soo/sml"
 )
 
 func TestCT_CellProtectionConstructor(t *testing.T) {

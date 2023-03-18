@@ -11,9 +11,9 @@ import (
 	"bytes"
 	"testing"
 
-	"baliance.com/gooxml/common"
-	"baliance.com/gooxml/document"
-	"baliance.com/gooxml/testhelper"
+	"gooxml/common"
+	"gooxml/document"
+	"gooxml/testhelper"
 )
 
 func TestSimpleDoc(t *testing.T) {

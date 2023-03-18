@@ -8,7 +8,7 @@
 package document
 
 import (
-	"baliance.com/gooxml/schema/soo/wml"
+	"gooxml/schema/soo/wml"
 )
 
 // Style is a style within the styles.xml file.

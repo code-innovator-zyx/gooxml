@@ -12,7 +12,7 @@ package sml
 import (
 	"encoding/xml"
 
-	"baliance.com/gooxml"
+	"gooxml"
 )
 
 type CT_RPrElt struct {
